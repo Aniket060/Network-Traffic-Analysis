@@ -6,7 +6,7 @@ Network traffic analysis plays a crucial role in cybersecurity by identifying ma
 ## Case : 
 The SOC received an alert in their SIEM for ‘Local to Local Port Scanning’ where an internal private IP began scanning another internal system. Can you investigate and determine if this activity is malicious or not? You have been provided a PCAP, investigate using any tools you wish.
 
-## Investigation : 
+## Analysis : 
 
 1. Begin by ensuring the proper formatting of the Time field for accurate analysis.
 
