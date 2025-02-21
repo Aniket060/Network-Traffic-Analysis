@@ -83,7 +83,7 @@ Decoded URL analysis reveals attempts at SQL Injection and Cross-Site Scripting 
 ![image](https://github.com/user-attachments/assets/5736556b-6f7c-4468-a4dc-b1d72b61e6c2)
 
 
-9. File Upload & Web Shell Execution (Frame 16102 - 08:40:39): 
+9. Frame 16102 - 08:40:39: 
 After going through it HTTP stream, we can make an inference that the attacker clicked on “editprofile” where there was an “upload” button and they started uploading file “dbfunctions.php”. 
 
 ![image](https://github.com/user-attachments/assets/bf28815b-478c-4565-bc8b-7f24b1d9a21f)
@@ -94,7 +94,7 @@ After going through it HTTP stream, we can make an inference that the attacker c
 ![image](https://github.com/user-attachments/assets/51dfc6ff-dddb-4e28-a8c0-916e4cddee9f)
 
 
-11. At 16201, a suspicious URL is observed. 
+11. Frame : 16201, a suspicious URL is observed. 
 
 ![image](https://github.com/user-attachments/assets/9a5309ae-3497-4ba5-8773-9385fee3c7e8)
 
