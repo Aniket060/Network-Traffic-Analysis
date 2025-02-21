@@ -1,4 +1,4 @@
-# **Incident Analysis Report**  
+# **Network Traffic Analysis Report**  
 
 ## **1. Executive Summary**  
 On **February 7, 2021**, an alert for **Local to Local Port Scanning** was triggered in the SIEM, indicating potential malicious activity. Upon investigation of the provided PCAP file, it was determined that an internal system (**10.251.96.4**) performed reconnaissance and successfully compromised another internal system (**10.251.96.5**). The attacker executed commands via a web shell, leading to unauthorized access.  
