@@ -1,10 +1,10 @@
 # Network-Traffic-Analysis
 
-## Intro : 
-Network analysis importance, this project involves in-depth analysis of a case scenario which was part of BTLO SOC Challenge. Wireshark tool is used to do it. Case : 
-Findings include : 
+## Introduction : 
+Network traffic analysis plays a crucial role in cybersecurity by identifying malicious activities, detecting unauthorized access, and ensuring the integrity of network communications. This project focuses on an in-depth analysis of a real-world scenario from the BTLO: Network Analysis – Web Shell Challenge. Wireshark Tool has been used to conduct the analysis. After the completion of analysis, a report of key findings is prepared. 
 
-## Setup
+## Case : 
+The SOC received an alert in their SIEM for ‘Local to Local Port Scanning’ where an internal private IP began scanning another internal system. Can you investigate and determine if this activity is malicious or not? You have been provided a PCAP, investigate using any tools you wish.
 
 ## Investigation : 
 
@@ -114,5 +114,6 @@ Further analysis reveals the attacker executing commands on the compromised web 
 
 ![image](https://github.com/user-attachments/assets/6f5603ea-c5fa-4e56-9f93-a263486eabac)
 
+## R
 
 
