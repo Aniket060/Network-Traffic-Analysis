@@ -114,6 +114,6 @@ Further analysis reveals the attacker executing commands on the compromised web 
 
 ![image](https://github.com/user-attachments/assets/6f5603ea-c5fa-4e56-9f93-a263486eabac)
 
-## R
+---
 
-
+[Read the Analysis Report](Network Traffic Analysis Report.md)
